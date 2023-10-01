@@ -1,0 +1,29 @@
+
+Area: 5000 - 10000000000000
+ARRE
+388 actual
+182 excess
+=570
+
+ABRERA
+657 actual
+163 excess
+=820
+
+Area: 10000-10000000000000
+KAMPILAN
+249 actual + 1
+387 excess
+=636
+
+EBDtheque
+534 actual + 5
+102 excess
+=636
+
+Area: 100000-10000000000000
+BORJA
+at threshold 200 without OTSU
+425 actual
+30 excess
+=455
