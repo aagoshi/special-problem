@@ -6,3 +6,5 @@ Filipino komiks is an art form that has a long history in the Philippines. Analy
 Keywords: Filipino comics, comics analysis, visual analysis, CNN, image processing
 
 Checked by Rizza DC. Mercado on August 1, 2022.
+
+Disclaimer: This is a public version of the original repository used in the research. Some contents are removed due to concerns such as copyright.
